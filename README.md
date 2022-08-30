@@ -1,6 +1,6 @@
 # Kaggle-cursos
 
-![image](https://user-images.githubusercontent.com/69591172/187340234-64903848-edd0-4f7b-b494-cc9d2f6ca93a.png)
+![image](https://user-images.githubusercontent.com/69591172/187340392-3d799168-e494-4bc9-9631-57c90ca4bee4.png)
 
 ## Motivação
 
